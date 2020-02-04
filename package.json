@@ -1,0 +1,19 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-aggregator": "~1.5.0",
+        "node-red-contrib-cubic-range": "~1.0.0",
+        "node-red-contrib-dht-sensor": "~1.0.4",
+        "node-red-contrib-easybotics-pca9685": "0.0.3",
+        "node-red-contrib-msg-resend": "0.0.7",
+        "node-red-contrib-rpi-imagecapture": "0.0.2",
+        "node-red-contrib-sunpos": "~1.4.1",
+        "node-red-contrib-webcam": "0.0.1",
+        "node-red-dashboard": "~2.16.3",
+        "node-red-node-openweathermap": "~0.2.1",
+        "node-red-node-pushover": "0.0.16"
+    }
+}
